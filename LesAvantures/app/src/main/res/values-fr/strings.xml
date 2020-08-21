@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Les Aventures</string>
+    <string name="title_activity_level1_main_menu">Level1MainMenu</string>
+    <string name="title_activity_level1_main">Level1MainActivity</string>
+    <string name="title_activity_my_application">MyApplication</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_main_login">Ouverture de session</string>
+    <string name="title_activity_main_display_name">Display Name</string>
+    <string name="title_activity_main_scoreboard">Tableau d\'affichage</string>
+    <string name="title_activity_main_email">Adresse e-mail</string>
+    <string name="title_activity_main_name">Prénom</string>
+    <string name="title_activity_main_username">Pseudonyme</string>
+    <string name="title_activity_main_password">Mot de passe</string>
+    <string name="title_activity_main_confirm_password">Confirmer mot de passe</string>
+    <string name="title_activity_main_logout">Fermeture de session</string>
+    <string name="title_activity_main_signup">Enregistrement</string>
+    <string name="title_activity_level3_main">Level3Main</string>
+    <string name="title_activity_level3_computer_main">Level3ComputerMain</string>
+    <string name="title_activity_level3_main_menu">Level3MainMenu</string>
+    <string name="title_activity_level2_main">Level2MainActivity</string>
+    <string name="title_activity_level3_ready">Level3Ready</string>
+    <string name="attack_error">Attaquer ne peut être nul</string>
+    <string name="steal_error">Voler ne peut être nul </string>
+    <string name="defense_error">Défense ne peut être nul</string>
+    <string name="player1_wins">Joueur 1 gagnant de dîner de poulet</string>
+    <string name="player2_wins">Joueur 2 gagnant de dîner de poulet.</string>
+    <string name="level2_easy">FACILE</string>
+    <string name="level2_standard">NORMAL</string>
+    <string name="level2_hard">DIFFICILE</string>
+    <string name="level2_lives">10 VIES</string>
+</resources>
